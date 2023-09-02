@@ -1,0 +1,3 @@
+# Docs
+
+- getStaticProps -> pages/users
